@@ -24,9 +24,5 @@ module.exports = {
 			return res.send(resp);
 		})
 	},
-
-	socccc: function (req, res){
-		
-	}
 };
 
